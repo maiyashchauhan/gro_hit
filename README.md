@@ -1,10 +1,29 @@
-GRO-HIT is not just a civic-tech tool—it’s a digital guardian born from the folklore of rural resilience. It blends encrypted intelligence, poetic UX, and mythic branding to empower villages with real-time awareness, multilingual access, and offline-first reliability.
-At its core, GRO-HIT is built on the belief that information should feel like intuition—fluid, accessible, and deeply rooted in local context. It transforms raw civic data into mythic signals: alerts that feel like whispers from the land, dashboards that resemble ritual scrolls, and workflows that echo communal rhythms.
-✨ Foundational Principles
-- Mythic UX: Interfaces that evoke storytelling, ritual, and cultural symbolism—making civic data feel sacred and familiar.
-- Encrypted Trust: Modular architecture ensures secure, tamper-proof flows that respect user privacy and local governance.
-- Multilingual & Offline-First: Designed for low-resource environments, GRO-HIT speaks the language of the land and works even without connectivity.
-- Civic Intelligence: Tracks local issues—water, health, infrastructure, alerts—with poetic clarity and actionable insight.
-🌀 Why GRO-HIT?
-In a world of noisy dashboards and bureaucratic overload, GRO-HIT offers a glitch-inspired alternative: a sentinel that listens, adapts, and mythologizes civic life. It’s a call to reimagine technology not as a tool, but as a folk companion—one that grows with the village, learns its legends, and protects its future.
+Overview
+This project is a comprehensive platform designed to digitally empower rural communities. It leverages AI, multilingual support, and progressive web technologies to deliver essential services such as grievance tracking, budget transparency, job listings, health assistance, and local market updates—even in low-connectivity regions.​
+
+Key Features
+Geo-tagged Issue Reporting: Easily report local problems with location data for rapid tracking and resolution.
+Panchayat Announcements: Broadcast updates through text, audio, and video formats.
+Grievance Tracking: Monitor the status and progress of submitted grievances.
+Problem-level Budget Display: Detailed views including data of approval, semantic context, work breakdown, contractor/agency, progress photos/videos, and funding history (allocated, spent, remaining).
+Skill Training and Job Board: Discover local government training programs and job opportunities, with filters for age, gender, and skills.
+Offline Sync Mode: Use core features without internet; sync work once online, crucial for low connectivity areas.
+Secured Village IDs: Each villager receives a privacy-protected ID storing issue/voting/service history; login via OTP or QR code.
+Scheme Recommender: Smart AI suggests government schemes based on age, caste, income, and location.
+Multilingual Support: Full support for English and Hindi.
+Triple Mode Login: Email, phone, and thumbprint authentication for secure access.
+Peer-to-Peer Help Funding: Built-in platform to facilitate micro-donations (₹10, ₹20, ₹50, etc.) for urgent needs.
+Voice Assistance: Universal voice-driven navigation with AI conversational prompt support.
+Village Mythology Storytelling: Record and share local myths and histories.
+Emergency Alerts: Preset SMS alerts for medical/emergency situations even with poor internet.
+Crop Disease Detection: Use smartphone camera + AI to identify and suggest cures for plant diseases.
+Digital Mandi Bulletin: Live updates on local crop prices and goods.
+Community Radio & News: Integrated platform for local radio and news updates.
+Suggestion Box: Villagers can submit feedback, concerns, or seasonal job board entries.
+Healthcare Directory: Find nearby clinics, hospitals, ASHA workers, and mobile health units with contact and service details.
+Telemedicine: Enable video/audio consultation with doctors directly through the app.
+Vaccine/Camp Alerts: Automated SMS reminders for vaccination and health camp government programs.
+One-tap SOS: Instantly request emergency medical help.
+Health Fund Transparency: Track allocations, spending, and progress on health-related funding.
+AI Health Assistant: Voice chat–based symptom checker, suggesting personalized nearby health services and relevant schemes.
 # gro_hit
